@@ -20,7 +20,7 @@
 						<a class="fh5co-listing-item">
 							<img src="{{asset('images/img-1.jpg')}}" alt="Free HTML5 Bootstrap Template by FreeHTML5.co" class="img-responsive">
 							<div class="fh5co-listing-copy">
-								<h2>Paris</h2>
+								<h2>Parisu</h2>
 								<span class="icon">
 									<i class="icon-chevron-right"></i>
 								</span>
