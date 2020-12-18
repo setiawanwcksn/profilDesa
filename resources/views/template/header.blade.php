@@ -67,7 +67,7 @@
 					<div class="container">
 						<div class="nav-header">
 							<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
-							<h1 id="fh5co-logo"><a href="index.html">Listing</a></h1>
+							<h1 id="fh5co-logo"><a href="index.html">Pathur</a></h1>
 							<!-- START #fh5co-menu-wrap -->
 							<nav id="fh5co-menu-wrap" role="navigation">
 								<ul class="sf-menu" id="fh5co-primary-menu">
@@ -92,7 +92,7 @@
 										</ul>
 									</li>
 									<li>
-										<a href="#" class="fh5co-sub-ddown sf-with-ul">Dropdown</a>
+										<a href="#" class="fh5co-sub-ddown sf-with-ul">Joko Anwar</a>
 										<ul class="fh5co-sub-menu">
 											<li><a href="left-sidebar.html">Web Development</a></li>
 											<li><a href="right-sidebar.html">Branding &amp; Identity</a></li>
