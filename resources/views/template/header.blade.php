@@ -92,7 +92,7 @@
 										</ul>
 									</li>
 									<li>
-										<a href="#" class="fh5co-sub-ddown sf-with-ul">Joko Anwar</a>
+										<a href="#" class="fh5co-sub-ddown sf-with-ul">Joko Fathur</a>
 										<ul class="fh5co-sub-menu">
 											<li><a href="left-sidebar.html">Web Development</a></li>
 											<li><a href="right-sidebar.html">Branding &amp; Identity</a></li>
