@@ -1,4 +1,4 @@
-@extends('template/header')
+@extends('template.templatePage')
 @section('content')
 <!-- banner area -->
 <div>
@@ -6,31 +6,32 @@
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
-				<img src="{{asset('images/banner/b1.jpg')}}" alt="...">
+				<img src="{{asset('images/banner/wisata.jpg')}}" alt="...">
 				<div class="container">
 					<!-- banner caption -->
 					<div class="carousel-caption slide-one">
 						<!-- heading -->
-						<h2 class="animated fadeInLeftBig"> Melodi For You!</h2>
+						<h2 class="animated fadeInLeftBig"> Tempat Wisata di Sambirejo!</h2>
 						<!-- paragraph -->
-						<h3 class="animated fadeInRightBig">Find More Innovative &amp; Creative Music Albums.
+						<h3 class="animated fadeInRightBig">Jelajahi Lebih Banyak <i class="fas fa-search-location"></i>
 						</h3>
 						<!-- button -->
-						<a href="#" class="animated fadeIn btn btn-theme">Download Here</a>
+						<a href="#" class="animated fadeIn btn btn-theme">Jelajah Wisata</a>
 					</div>
 				</div>
 			</div>
 			<div class="item">
-				<img src="{{asset('images/banner/b2.jpg')}}" alt="...">
+				<img src="{{asset('images/banner/umkm.jpg')}}" alt="...">
 				<div class="container">
 					<!-- banner caption -->
 					<div class="carousel-caption slide-two">
 						<!-- heading -->
-						<h2 class="animated fadeInLeftBig"> Listen It...</h2>
+						<h2 class="animated fadeInLeftBig"> UMKM di Sambirejo!</h2>
 						<!-- paragraph -->
-						<h3 class="animated fadeInRightBig">Lorem ipsum dolor sit amet, consectetur elit.</h3>
+						<h3 class="animated fadeInRightBig">Jelajahi Lebih Banyak <i class="fas fa-search-location"></i>
+						</h3>
 						<!-- button -->
-						<a href="#" class="animated fadeIn btn btn-theme">Listen Now</a>
+						<a href="#" class="animated fadeIn btn btn-theme">Jelajah UMKM</a>
 					</div>
 				</div>
 			</div>
