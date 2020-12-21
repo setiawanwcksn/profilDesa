@@ -17,5 +17,15 @@ Route::get('/', function () {
     return view('content/homePage');
 });
 
+
+Route::get('/wisata', function () {
+    return view('wisata/index');
+});
+
+Route::get('/contact', function () {
+    return view('content/contact');
+});
+
 Route::post('saveTourism','TourismController@store')->name('saveTourism');
 Route::get('/','TourismController@index')->name('/');
+

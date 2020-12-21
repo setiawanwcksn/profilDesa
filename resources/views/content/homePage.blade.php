@@ -20,7 +20,7 @@
 						<h3 class="animated fadeInRightBig">Jelajahi Lebih Banyak <i class="fas fa-search-location"></i>
 						</h3>
 						<!-- button -->
-						<a href="#" class="animated fadeIn btn btn-theme">Jelajah Wisata</a>
+						<a href="/wisata" class="animated fadeIn btn btn-theme">Jelajah Wisata</a>
 					</div>
 				</div>
 			</div>
@@ -58,6 +58,7 @@
 <div class="fh5co-listing">
 	
 	<div class="container">
+
 		<!-- button Modals, Untuk form modals tambah ada dibawah -->
 		<button type="button" class="btn btn-success float-right mb-1" data-toggle="modal" data-target="#exampleModal">
 			Tambah
@@ -88,6 +89,7 @@
 					<div class="modal-footer">
 						<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
 						<button type="submit" class="btn btn-primary">Submit</button>
+
 					</div>
 				</form>
 				</div>
@@ -104,7 +106,7 @@
 					<div class="fh5co-listing-copy">
 						<h2>{{ $item->judul }}</h2>
 						<span class="icon">
-							<i class="glyphicon glyphicon-arrow-right"></i>
+							<i class="glyphicon glyphicon-chevron-right"></i>
 						</span>
 					</div>
 				</a>
