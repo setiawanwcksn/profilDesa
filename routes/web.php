@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('content/homePage');
 });
+
+Route::post('saveTourism','TourismController@store')->name('saveTourism');
+Route::get('/','TourismController@index')->name('/');
